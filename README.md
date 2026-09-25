@@ -8,7 +8,7 @@ Since August 2026 I've been contributing Go backend fixes to [Fleet](https://git
 - [#52048](https://github.com/fleetdm/fleet/pull/52048): longer HTTP timeout for fleet-mcp single-host live queries
 - [#52771](https://github.com/fleetdm/fleet/pull/52771): validate `script_id` when applying policy specs
 - [#52073](https://github.com/fleetdm/fleet/pull/52073): recognize all Fleet Linux distros in fleet-mcp platform checks
-- [#52990](https://github.com/fleetdm/fleet/pull/52990): expand the linux platform filter in chart host filters (in review)
+- [#52990](https://github.com/fleetdm/fleet/pull/52990): expand the linux platform filter in chart host filters
 
 [All my Fleet PRs](https://github.com/fleetdm/fleet/pulls?q=is%3Apr+author%3Arajendrachavan)
 
